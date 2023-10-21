@@ -7,7 +7,7 @@ Team members:
 
 
 Starting point:
-  - Choose a paper
+  - Explicar qué paper hemos escogido, hacer resumen
 
 
 Write a rough sketch of what you plan to do during the course (plan with respect to the 3 report deadlines)
