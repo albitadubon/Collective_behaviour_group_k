@@ -12,6 +12,8 @@ Starting point:
 
 Write a rough sketch of what you plan to do during the course (plan with respect to the 3 report deadlines)
   - Deadline 1: Milestone 1
+
+    
     Present a review of concepts and existing models, present a general overview of the problem and provide an idea of how you intend to approach to solve the          problem. Follow the IMRAD (Introduction, Methods, Results and Discussion) architecture for scientific writing. Prepare the report with the provided template.       The page limit is 4 pages, but quality should be paramount; be mindful of your grammar, do spellchecking. Think of your finished undergraduate thesis.
     
   - Deadline 2: Milestone 2
