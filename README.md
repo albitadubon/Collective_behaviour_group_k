@@ -20,7 +20,9 @@ Present a review of concepts and existing models, present a general overview of 
     
 - Milestone 2
     
-It should include polishing of the previous report based on the received comments, details about the methods and the proposed methodology for verification. Follow the IMRAD (Introduction, Methods, Results and Discussion) architecture for scientific writing. Prepare the report with the provided template (see first report asignment). The page limit is 4 pages, but quality should be paramount; be mindful of your grammar, do spellchecking. Think of your finished undergraduate thesis. 
+In our second report, we will focus on refining our initial submission based on the feedback we received. In addition to this, we will delve even deeper into the details of the proposed verification methodology and models.
+
+By that time, we also hope to have made significant progress in implementing our approach.
 
 - Final milestone
     
