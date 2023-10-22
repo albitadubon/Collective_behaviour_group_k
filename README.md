@@ -2,7 +2,7 @@
 
 ### Group K members: 
   - Alba Dubón: albita6 - dalba002@gmail.com
-  - Hasier Zaldua: hasizaldua - hasizaldua@gmail.com
+  - Asier Zaldua: hasizaldua - hasizaldua@gmail.com
   - Marta Juanes: martajuanes - marta.juanes.robles@gmail.com
 
 
