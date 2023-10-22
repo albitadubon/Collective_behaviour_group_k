@@ -12,7 +12,7 @@ In this project the subject of study is the crowd dynamics evacuation scenarios.
 To further delve into crowd behavior, we will explore various alternative approaches to enhance our understanding of the subject. These approaches will involve investigating different possibilities for analyzing and modeling crowd dynamics in various scenarios.
 
 
-### Plan
+### Timeline
 
 - Deadline 1: Milestone 1
 
