@@ -14,7 +14,7 @@ To further delve into crowd behavior, we will explore various alternative approa
 
 ### Timeline
 
-- Firs report (20/11/2023)
+- First report (20/11/2023)
 
 Following the structure of the provided template, in this first submission, we will offer a general description of the problem and its concepts. Furthermore, we will explore the related work that has been done up to this point and some of the models currently used for addressing the challenge of crowd evacuation.This analysis will guide us in formulating our strategy for addressing this problem, which we will implement in the next submission.
     
@@ -26,4 +26,4 @@ By that time, we also hope to have made significant progress in implementing our
 
 - Final report (8/1/2024)
     
-It must be based on a polished version of previous reports. The introduction must be concise, mention relevant existing research and use supporting research to present the problem, as well as reasons why you deem your solution to be of impact. It should be written in a narrative form, leading towards you thesis. The methods section must present details about your approach as well as the methodology employed for evaluation. Again it should be concise and provide enough details that one could reimplement your solution. The results section should include some form of a comparison with previous research. In the discussion  section discuss your results in view of previous research and provide some ideas for future work. Follow the IMRAD (Introduction, Methods, Results and Discussion) architecture for scientific writing. Keep the manuscript concise. Prepare the report with the provided template. Reports should be written in English. The page limit for the final report is 4 pages. It must not exceed 2000 words. Quality is paramount; be mindful of your grammar, do spellchecking. Think of your finished undergraduate thesis. Individual contributions of the authors must be specified (i.e. "JN wrote the introduction and polished the language, MK performed the data analysis and prepared the images, IC implemented algorithm A and ran the experiments"). 
+The final report for this project will serve as a culmination of our previous work, aiming to produce a refined and comprehensive document. We will present meticulous details about our approach and evaluation methodology within the methods section. Going beyond mere data presentation, the results section will include a comparative analysis with prior research, highlighting the distinctive contributions of our proposed approach. In the discussion section, we will delve into the implications of our findings within the broader context of existing research, providing insights and laying out avenues for future work. This report is a testament to the progress we've made, with continuous improvements made based on feedback received throughout the course.
