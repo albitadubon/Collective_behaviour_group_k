@@ -16,7 +16,7 @@ To further delve into crowd behavior, we will explore various alternative approa
 
 - Milestone 1
 
-Present a review of concepts and existing models, present a general overview of the problem and provide an idea of how you intend to approach to solve the problem. Follow the IMRAD (Introduction, Methods, Results and Discussion) architecture for scientific writing. Prepare the report with the provided template. The page limit is 4 pages, but quality should be paramount; be mindful of your grammar, do spellchecking. Think of your finished undergraduate thesis.
+Following the structure of the provided template, in this first submission, we will offer a general description of the problem and its concepts. Furthermore, we will explore the related work that has been done up to this point and some of the models currently used for addressing the challenge of crowd evacuation.This analysis will guide us in formulating our strategy for addressing this problem, which we will implement in the next submission.
     
 - Milestone 2
     
